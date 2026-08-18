@@ -1,7 +1,7 @@
 nm = input("What is your name?")
 major = input("Whats your major?")
 age = input("Whats your age?")
-print("Salam",nm)
+print("Salamu Alaikom",nm)
 print("Welcome to our class!")
 print("Your major",major,"is fun!")
 print("Your age is",age,"years old")
